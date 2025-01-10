@@ -94,20 +94,20 @@ resetBtn.addEventListener("click", reset);
 /* For Background Images */ 
 
 const images = [
-    'images/img1.jpg',
-    'images/img2.jpg',
-    'images/img3.jpg', 
-    'images/img4.jpg',
-    'images/img5.jpg',
-    'images/img6.jpg',
-    'images/img7.jpg',
-    'images/img8.jpg',
-    'images/img9.jpg',
-    'images/img10.jpg',
-    'images/img11.jpg',
-    'images/img12.jpg',
-    'images/img13.jpg',
-    'images/img14.jpg'
+    'Images/img1.jpg',
+    'Images/img2.jpg',
+    'Images/img3.jpg', 
+    'Images/img4.jpg',
+    'Images/img5.jpg',
+    'Images/img6.jpg',
+    'Images/img7.jpg',
+    'Iages/img8.jpg',
+    'Images/img9.jpg',
+    'Images/img10.jpg',
+    'Images/img11.jpg',
+    'Images/img12.jpg',
+    'Images/img13.jpg',
+    'Images/img14.jpg'
 ];
 
 let currentIndex = 0; 
